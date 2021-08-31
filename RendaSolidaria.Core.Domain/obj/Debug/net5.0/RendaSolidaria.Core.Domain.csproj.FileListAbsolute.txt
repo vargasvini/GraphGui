@@ -1,0 +1,12 @@
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\bin\Debug\net5.0\RendaSolidaria.Core.Domain.deps.json
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\bin\Debug\net5.0\RendaSolidaria.Core.Domain.dll
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\bin\Debug\net5.0\ref\RendaSolidaria.Core.Domain.dll
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\bin\Debug\net5.0\RendaSolidaria.Core.Domain.pdb
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\obj\Debug\net5.0\RendaSolidaria.Core.Domain.csproj.AssemblyReference.cache
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\obj\Debug\net5.0\RendaSolidaria.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\obj\Debug\net5.0\RendaSolidaria.Core.Domain.AssemblyInfoInputs.cache
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\obj\Debug\net5.0\RendaSolidaria.Core.Domain.AssemblyInfo.cs
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\obj\Debug\net5.0\RendaSolidaria.Core.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\obj\Debug\net5.0\RendaSolidaria.Core.Domain.dll
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\obj\Debug\net5.0\ref\RendaSolidaria.Core.Domain.dll
+D:\workspace\RendaSolidaria-Backend\RendaSolidaria.Core.Domain\obj\Debug\net5.0\RendaSolidaria.Core.Domain.pdb
